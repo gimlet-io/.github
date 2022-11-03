@@ -1,6 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gimlet-io/gimlet-documentation/blob/main/public/logo-dark.svg">
+  <img alt="Gimlet" src="https://github.com/gimlet-io/gimlet-documentation/blob/main/public/logo.svg" width="200">
+</picture>
+
 # 👋 We are Gimlet.io
-
-
 
 ## Jobs
 
