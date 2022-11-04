@@ -18,7 +18,7 @@ If you're reading this, I can only assume that you're interested in working for 
 Email laszlo at gimlet.io to apply.
 
 - **Head of Engineering**
-If you are an experienced engineer who wants to make an impact finally, join Gimlet and be responsible for the technical niveau and velocity at an early stage startup. Let's grow together to hights we've never seen before. Strong chemistry with the founding team is a must.
+If you are an experienced engineer who wants to make an impact finally, join Gimlet and be responsible for the technical niveau and velocity at an early stage startup. Let's grow together to heights we've never seen before. Strong chemistry with the founding team is a must.
 
 - **Full-stack Engineer**
 If you are a frontend, backend or fullstack engineer who wants to deliver end-to-end features across a Golang, React/Javascript stack, experience exceptional product velocity, and contribute to a startups early days product wins, you've come to the right place.
