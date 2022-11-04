@@ -5,7 +5,7 @@
 
 # 👋 We are Gimlet.io
 
-![Gimlet office](dalle-office.png)
+![Gimlet office](https://github.com/gimlet-io/.github/raw/main/profile/dalle-office.png)
 
 ## Jobs
 
