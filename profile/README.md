@@ -5,6 +5,8 @@
 
 # 👋 We are Gimlet.io
 
+![Gimlet office](dalle-office.png)
+
 ## Jobs
 
 Hey there 👋
