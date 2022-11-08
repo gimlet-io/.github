@@ -17,7 +17,7 @@ If you're reading this, I can only assume that you're interested in working for 
 
 Email laszlo at gimlet.io to apply.
 
-**DevOps Engineer**
+#### **DevOps Engineer**
 
 We are looking for you
 - if you have deep expertise in one programming language. We use Golang and Javascript daily, but Python and Java are also a good background for this job.
