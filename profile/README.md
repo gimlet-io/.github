@@ -17,18 +17,28 @@ If you're reading this, I can only assume that you're interested in working for 
 
 Email laszlo at gimlet.io to apply.
 
-- **Head of Engineering**
-If you are an experienced engineer who wants to make an impact finally, join Gimlet and be responsible for the technical niveau and velocity at an early stage startup. Let's grow together to heights we've never seen before. Strong chemistry with the founding team is a must.
+**DevOps Engineer**
 
-- **Full-stack Engineer**
-If you are a frontend, backend or fullstack engineer who wants to deliver end-to-end features across a Golang, React/Javascript stack, experience exceptional product velocity, and contribute to a startups early days product wins, you've come to the right place.
+We are looking for you
+- if you have deep expertise in one programming language. We use Golang and Javascript daily, but Python and Java are also a good background for this job.
+- if you have worked on a product team delivering features.
+- if you are good with the Linux terminal
+- if you know one infrastructure as code tool. Terraform, Ansible and alike.
+- if you have a deep interest in Kubernetes and the cloud native ecosystem
+- you have worked in a client facing role before
+- you read, write and speak English
+- have tried blogging about your work in the past
 
-- **Developer Relations Engineer**
-You are a curious engineer who makes proof of concepts all the time no matter the technology. You have probably valued breadth over depth all your life, but you never found a job where it is actually valued. Interest in cloud native tech is a must, so as experience or strong interest in a medium (blogging, video, public or recorded speaking).
+to be a DevOps Engineer at Gimlet.io where
+- you would assist our clients with their Gimlet and cloud setups in 50% of your time.
+- you would help shaping and building our internal developer platform product: https://github.com/gimlet-io/gimlet in your other 50% of your time.
+  - do proof of concepts with cloud native technologies
+  - integrate your POCs with Gimlet
+  - document, blog, speak about your work publicly
 
 ### About Gimlet.io
 
-Gimlet.io is a software development company focused on developer experience.
+Gimlet.io is a startup focused on getting the Netlify experience onto Kubernetes and the cloud native ecosystem.
 
 Founded in 2020, headquartered in Szeged, Hungary, we're a small but growing team of engineers on the mission to make the Gimlet open-source, gitops based developer platform the obvious choice for cloud native platform builders.
 
